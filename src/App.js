@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Deneme developmentbranch deneme1 deneme2
+          Learn React Deneme developmentbranch deneme1 deneme2 deneme3 deneme4
         </a>
       </header>
     </div>
