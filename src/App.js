@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Deneme
+          Learn React Deneme HSD Fırat development branch213
         </a>
       </header>
     </div>
